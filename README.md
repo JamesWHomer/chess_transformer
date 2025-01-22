@@ -1,1 +1,1 @@
-A simple sequential chess model based on a decoder only, autoreggressive transformer architecture. Built not for performance but for research and entertainment. 
+A simple sequential chess model based on a autoreggressive decoder only transformer architecture. Intended for research and fun, not for performance. 
